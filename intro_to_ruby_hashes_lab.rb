@@ -17,13 +17,16 @@ def monopoly_with_third_tier
 		railroads: {
 			pieces: 4,
 			rent_in_dollars: {
-				hash1: {},
-				hash2: {},
-				hash3: {},
-				hash4: {}
+				key1: {},
+				key2: {},
+				key3: {},
+				key4: {}
 			},
 			names: {
-				
+				key1a: {},
+				key2a: {},
+				key3a: {},
+				key4a: {}
 			}
 		}
 	}
