@@ -21,8 +21,10 @@ def monopoly_with_third_tier
 				hash2: {},
 				hash3: {},
 				hash4: {}
+			},
+			names: {
+				
 			}
-			names: {}
 		}
 	}
 end
